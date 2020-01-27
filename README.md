@@ -1,4 +1,7 @@
-## Session on GeoSpatial Data Analysis at Gramener, Bangalore office.
+## Session on GeoSpatial Data Analysis at Gramener, Bangalore office.  
+by [@ramyaraghupathy](https://github.com/ramyaragupathy) & [@srm-soumya](https://github.com/srm-soumya) 
+
+---
 
 Steps to run the notebook
 
